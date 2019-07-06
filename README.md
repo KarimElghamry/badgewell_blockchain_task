@@ -31,3 +31,8 @@ node index.js
   http://localhost:3000/eth
   http://localhost:3000/eos
   ```
+- the expected results for:
+  
+  ethereum =>  ``` Hello World! ``` String
+  
+  eos => a ``` JSON ``` containing the transaction info
