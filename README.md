@@ -1,4 +1,4 @@
-# Badgwell Blockchain Task
+# Badgewell Blockchain Task
 
 ## Prerequisites
 
