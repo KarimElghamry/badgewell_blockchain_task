@@ -25,3 +25,9 @@ node index.js
 - the repo contains a folder named ``` contracts ```, which holds the smart contract codes for both networks
 
 - ``` ethereum.js ``` and ``` eos.js ``` contains the functions that runs the smart contracts on the testnet blockchain
+
+- to test endpoints, use ``` POSTman ``` or any alternative services to send POST requests to:
+  ```
+  http://localhost:3000/eth
+  http://localhost:3000/eos
+  ```
